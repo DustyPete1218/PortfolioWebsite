@@ -1,0 +1,1 @@
+This is a personal portfolio website. It is written in Javascript, HTML, CSS
